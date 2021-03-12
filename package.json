@@ -1,0 +1,19 @@
+{
+  "name": "cypress-visual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0",
+    "cypress-image-snapshot": "^4.0.1"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "description": ""
+}
